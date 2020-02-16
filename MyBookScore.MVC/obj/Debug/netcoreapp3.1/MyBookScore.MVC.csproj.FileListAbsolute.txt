@@ -9,7 +9,6 @@ C:\Users\murat\OneDrive\Masaüstü\SoftDuo\MyBookScore\MyBookScore.MVC\bin\Debug
 C:\Users\murat\OneDrive\Masaüstü\SoftDuo\MyBookScore\MyBookScore.MVC\bin\Debug\netcoreapp3.1\MyBookScore.MVC.pdb
 C:\Users\murat\OneDrive\Masaüstü\SoftDuo\MyBookScore\MyBookScore.MVC\bin\Debug\netcoreapp3.1\MyBookScore.MVC.Views.dll
 C:\Users\murat\OneDrive\Masaüstü\SoftDuo\MyBookScore\MyBookScore.MVC\bin\Debug\netcoreapp3.1\MyBookScore.MVC.Views.pdb
-C:\Users\murat\OneDrive\Masaüstü\SoftDuo\MyBookScore\MyBookScore.MVC\obj\Debug\netcoreapp3.1\MyBookScore.MVC.csprojAssemblyReference.cache
 C:\Users\murat\OneDrive\Masaüstü\SoftDuo\MyBookScore\MyBookScore.MVC\obj\Debug\netcoreapp3.1\staticwebassets\MyBookScore.MVC.StaticWebAssets.Manifest.cache
 C:\Users\murat\OneDrive\Masaüstü\SoftDuo\MyBookScore\MyBookScore.MVC\obj\Debug\netcoreapp3.1\staticwebassets\MyBookScore.MVC.StaticWebAssets.xml
 C:\Users\murat\OneDrive\Masaüstü\SoftDuo\MyBookScore\MyBookScore.MVC\obj\Debug\netcoreapp3.1\MyBookScore.MVC.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,7 @@
+C:\Users\murat\OneDrive\Masaüstü\SoftDuo\MyBookScore\MyBookScore.DataAccess\bin\Debug\netcoreapp3.1\MyBookScore.DataAccess.deps.json
+C:\Users\murat\OneDrive\Masaüstü\SoftDuo\MyBookScore\MyBookScore.DataAccess\bin\Debug\netcoreapp3.1\MyBookScore.DataAccess.dll
+C:\Users\murat\OneDrive\Masaüstü\SoftDuo\MyBookScore\MyBookScore.DataAccess\bin\Debug\netcoreapp3.1\MyBookScore.DataAccess.pdb
+C:\Users\murat\OneDrive\Masaüstü\SoftDuo\MyBookScore\MyBookScore.DataAccess\obj\Debug\netcoreapp3.1\MyBookScore.DataAccess.AssemblyInfoInputs.cache
+C:\Users\murat\OneDrive\Masaüstü\SoftDuo\MyBookScore\MyBookScore.DataAccess\obj\Debug\netcoreapp3.1\MyBookScore.DataAccess.AssemblyInfo.cs
+C:\Users\murat\OneDrive\Masaüstü\SoftDuo\MyBookScore\MyBookScore.DataAccess\obj\Debug\netcoreapp3.1\MyBookScore.DataAccess.dll
+C:\Users\murat\OneDrive\Masaüstü\SoftDuo\MyBookScore\MyBookScore.DataAccess\obj\Debug\netcoreapp3.1\MyBookScore.DataAccess.pdb

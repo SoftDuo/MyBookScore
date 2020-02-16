@@ -1,0 +1,7 @@
+C:\Users\murat\OneDrive\Masaüstü\SoftDuo\MyBookScore\MyBookScore.Entities\bin\Debug\netcoreapp3.1\MyBookScore.Entities.deps.json
+C:\Users\murat\OneDrive\Masaüstü\SoftDuo\MyBookScore\MyBookScore.Entities\bin\Debug\netcoreapp3.1\MyBookScore.Entities.dll
+C:\Users\murat\OneDrive\Masaüstü\SoftDuo\MyBookScore\MyBookScore.Entities\bin\Debug\netcoreapp3.1\MyBookScore.Entities.pdb
+C:\Users\murat\OneDrive\Masaüstü\SoftDuo\MyBookScore\MyBookScore.Entities\obj\Debug\netcoreapp3.1\MyBookScore.Entities.AssemblyInfoInputs.cache
+C:\Users\murat\OneDrive\Masaüstü\SoftDuo\MyBookScore\MyBookScore.Entities\obj\Debug\netcoreapp3.1\MyBookScore.Entities.AssemblyInfo.cs
+C:\Users\murat\OneDrive\Masaüstü\SoftDuo\MyBookScore\MyBookScore.Entities\obj\Debug\netcoreapp3.1\MyBookScore.Entities.dll
+C:\Users\murat\OneDrive\Masaüstü\SoftDuo\MyBookScore\MyBookScore.Entities\obj\Debug\netcoreapp3.1\MyBookScore.Entities.pdb
